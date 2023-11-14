@@ -1,0 +1,30 @@
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\Padarosa 2023barra24.exe.config
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\Padarosa 2023barra24.exe
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\Padarosa 2023barra24.pdb
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa 2023barra24.csproj.AssemblyReference.cache
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa 2023barra24.csproj.SuggestedBindingRedirects.cache
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa_2023barra24.Form1.resources
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa_2023barra24.Properties.Resources.resources
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa 2023barra24.csproj.GenerateResource.cache
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa 2023barra24.csproj.CoreCompileInputs.cache
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa 2023barra24.exe
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa 2023barra24.pdb
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa_2023barra24.Login.resources
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa_2023barra24.MenuPrincipal.resources
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\EasyEncryption.dll
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\MySqlConnector.dll
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Buffers.dll
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Memory.dll
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\MySqlConnector.xml
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Buffers.xml
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Memory.xml
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa 2023barra24.csproj.CopyComplete
+C:\Users\raphael.aoliveira3\source\repos\Padarosa 2023barra24\Padarosa 2023barra24\obj\Debug\Padarosa_2023barra24.Views.dgvGerenciamentoUsuarios.resources
